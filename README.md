@@ -1,11 +1,13 @@
-A Simple Linux Virtual Bus For Fun.
-==============================================
+# simplebus
 
-The Provided Operations
-----------------------------------------------
+simplebus is a simple Linux virtual bus for the easy add&remove of self defined virtual devices.
+
+
+## The Provided Operations
+
 	simple_un/register_device
 	simple_un/register_driver
 
-Demo
-----------------------------------------------
+## Demo
+
 	simpledev.c demonstrate how to use this bus to add device and driver to os.
